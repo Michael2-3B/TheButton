@@ -75,7 +75,7 @@ table#highscores tr td:first-child:hover {
   color: #000;
   background-color: #ededed;
   padding: 10px 30px;
-  border: 1px solid #ccc;
+  border: none;
   vertical-align: center;
   text-align: center;
   text-decoration: none;
