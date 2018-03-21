@@ -89,7 +89,7 @@ table#highscores tr td:first-child:hover {
   color: #000;
   border: none;
   transition: all 0.2s ease 0s;
-  cursor: pointer;
+  cursor: url(http://www.clker.com/cliparts/m/F/E/0/Q/D/rainbow-mouse.svg), pointer;
 }
 
 #TheButton:hover {
