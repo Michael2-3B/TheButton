@@ -72,8 +72,8 @@ table#highscores tr td:first-child:hover {
   width: 400px;
   height: 45px;
   transition: all .2s;
-  color: #fff;
-  background-color: #DCDCDC;
+  color: #f0f;
+  background-color: #f0f;
   padding: 15px 0px;
   border: none;
   text-align: center;
@@ -89,17 +89,17 @@ table#highscores tr td:first-child:hover {
   color: #000;
   border: none;
   transition: all 0.2s ease 0s;
-  cursor: url(img/rainbow-mouse-hi.png), pointer;
+  cursor: url(../img/rainbow-mouse-hi.png), pointer;
 }
 
 #TheButton:hover {
-  background-color: #DDDDDD;
+  background-color: #f0f;
   box-shadow: 0px 15px 20px rgb(204, 255, 255);
   transform: translateY(-7px);
 }
 
 #TheButton:active {
-  background-color: #DDDDDD;
+  background-color: #FF00FF;
   box-shadow: none;
   transform: translateY(3px);
 }
