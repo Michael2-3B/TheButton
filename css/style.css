@@ -88,7 +88,6 @@ table#highscores tr td:first-child:hover {
   font-weight: 600;
   color: #000;
   border: none;
-  border-radius: 45px;
   transition: all 0.2s ease 0s;
   cursor: pointer;
 }
