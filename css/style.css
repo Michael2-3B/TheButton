@@ -82,9 +82,6 @@ table#highscores tr td:first-child:hover {
   text-decoration: none;
   font-variant: small-caps;
   font-size: 72px;
-  margin: 20px;
-  cursor: pointer;
-  font-size: 11px;
   letter-spacing: 2.5px;
   /* font-weight values for anything besides 300 or 600 don't work. Those are the two font weights we loaded in our HTML. */
   font-weight: 600;
@@ -103,7 +100,7 @@ table#highscores tr td:first-child:hover {
 #TheButton:active {
   background-color: #FF00FF;
   box-shadow: none;
-  transform: translateY(3px);
+  transform: translateY(5px);
 }
 
 p {
